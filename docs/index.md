@@ -1,16 +1,13 @@
 # Chào mừng đến với tài liệu kỹ thuật của Safe You 👋
-
 <a id="readme-top"></a>
 <br />
 
 <div align="center">
+  <img src="../../assets/images/logo.png" alt="Logo" width="100" height="100" />
   <h3 align="center">Safe You</h3>
 
   <p align="center">
    Phần mềm mã nguồn mở hỗ trợ ứng phó tình huống khẩn cấp, khắc phục thiệt hại và cung cấp thông tin an toàn cho cộng đồng. 
-    <br />
-    <a href="https://ute-safeyou.github.io/safeyou-docs/"><strong>Tài liệu phát triển »</strong></a>
-    <br />
     <br />
     <a href="https://olp-asm.huuloc.id.vn/app/safeyou-internals/admin-authentication-67543a23fd51167a0308d7b7?branch=master">Online demo</a>
     ·
