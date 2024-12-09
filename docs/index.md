@@ -13,8 +13,8 @@
    Phần mềm mã nguồn mở hỗ trợ ứng phó tình huống khẩn cấp, khắc phục thiệt hại và cung cấp thông tin an toàn cho cộng đồng. 
     <br />
     <a href="https://olp-asm.huuloc.id.vn/app/safeyou-internals/admin-authentication-67543a23fd51167a0308d7b7?branch=master">Online demo</a>
-    
-    <a href="·https://github.com/UTE-SafeYou/UTE-SafeYou/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-b%C3%A1o-c%C3%A1o-l%E1%BB%97i-.md&title=">Báo cáo lỗi</a>
+    ·
+    <a href="https://github.com/UTE-SafeYou/UTE-SafeYou/issues/new?assignees=&labels=&projects=&template=%F0%9F%90%9E-b%C3%A1o-c%C3%A1o-l%E1%BB%97i-.md&title=">Báo cáo lỗi</a>
     ·
     <a href="https://github.com/UTE-SafeYou/UTE-SafeYou/issues/new?assignees=&labels=&projects=&template=%F0%9F%92%A1-y%C3%AAu-c%E1%BA%A7u-t%C3%ADnh-n%C4%83ng.md&title=">Yêu cầu tính năng</a>
   </p>
