@@ -1,9 +1,12 @@
 # Chào mừng đến với tài liệu kỹ thuật của Safe You 👋
+
 <a id="readme-top"></a>
 <br />
 
 <div align="center">
-  <img src="../../assets/images/logo.png" alt="Logo" width="100" height="100" />
+
+ <img src="./assets/images/logo.png" alt="LOGO SAFE U" width="100"/>
+
   <h3 align="center">Safe You</h3>
 
   <p align="center">
