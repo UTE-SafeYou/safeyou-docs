@@ -54,8 +54,27 @@ supabase functions serve --env-file supabase/.env
 
 #### 8. Thiết lập n8n workflow:
    - Truy cập vào địa chỉ `http://localhost:5678`
-   - Chọn import workflow
+   - Chọn import from file
+<p align="center">
+    <img src="../../assets/images/import-n8n.png" alt="Import n8n" width="100%">
+</p>
    - Chọn file trong `safeyou-baas\automation\Send_Notification.json`
+<p align="center">
+    <img src="../../assets/images/workflow.png" alt="Workflow" width="100%">
+</p>
    - Thêm các biến môi trường trong workflow
+<p align="center">
+    <img src="../../assets/images/rabbitmq.png" alt="RabbitMQ" width="100%">
+</p>
+<p align="center">
+    <img src="../../assets/images/email.png" alt="RabbitMQ" width="100%">
+</p>
+<p align="center">
+    <img src="../../assets/images/twilio.png" alt="Twilio" width="100%">
+</p>
    - Lưu workflow
    - Chạy workflow
+
+<p align="center">
+    <img src="../../assets/images/running-workflow.png" alt="Twilio" width="100%">
+</p>
