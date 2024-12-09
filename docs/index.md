@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![alt text](./assets/images/logo.png)
+ <img src="./assets/images/logo.png" alt="LOGO SAFE U" width="100"/>
 
   <h3 align="center">Safe You</h3>
 
