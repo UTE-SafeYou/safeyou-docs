@@ -34,6 +34,10 @@ docker-compose up -d
 supabase start
 ```
 
+<p align="center">
+    <img src="../../../assets/images/supabase-start.png" alt="RabbitMQ" width="100%">
+</p>
+
 #### 5. Khởi tạo local database:
 
 ```sh

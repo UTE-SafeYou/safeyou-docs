@@ -22,3 +22,22 @@ Truy cập link
 Truy cập link
 [Tại đây](https://docs.appsmith.com/advanced-concepts/more/backup-restore).
 
+
+Sau khi import ta sẽ config lại một số thông số theo SafeYou BaaS sau khi chạy `supabase start`:
+
+<p align="center">
+    <img src="../../../assets/images/supabase-start.png" alt="start supabase" width="100%">
+</p>
+
+##### Database
+
+<p align="center">
+    <img src="../../../assets/images/postgresql.png" alt="PostgreSQL" width="100%">
+</p>
+
+##### Base URL
+
+
+<p align="center">
+    <img src="../../../assets/images/auth-url.png" alt="Auth URL" width="100%">
+</p>
