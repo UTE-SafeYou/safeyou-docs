@@ -17,7 +17,7 @@ Safe You là một hệ thống hỗ trợ ứng phó tình huống khẩn cấp
 
 ### 1. Front-end
 
-- **Công nghệ sử dụng**: React
+- **Công nghệ sử dụng**: Appsmith, React, antd
 - **Chức năng chính**:
   - Hiển thị bản đồ tương tác
   - Nhận cảnh báo theo vị trí GPS
@@ -60,11 +60,6 @@ Safe You là một hệ thống hỗ trợ ứng phó tình huống khẩn cấp
 - **Docker**: Sử dụng Docker để triển khai các thành phần của hệ thống
 - **N8N**: Quản lý quy trình làm việc
 - **RabbitMQ**: Xử lý hàng đợi tin nhắn
-
-### 2. Môi trường sản xuất
-
-- **Kubernetes**: Quản lý triển khai và mở rộng hệ thống
-- **CI/CD**: Sử dụng các công cụ CI/CD để tự động hóa quá trình triển khai
 
 ## Sơ đồ kiến trúc
 
