@@ -3,7 +3,8 @@
 <br />
 
 <div align="center">
-  <img src="../../assets/images/logo.png" alt="Logo" width="100" height="100" />
+
+![alt text](./assets/images/logo.png)
   <h3 align="center">Safe You</h3>
 
   <p align="center">
