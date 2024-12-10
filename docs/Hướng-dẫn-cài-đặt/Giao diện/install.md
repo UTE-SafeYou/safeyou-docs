@@ -41,3 +41,13 @@ Sau khi import ta sẽ config lại một số thông số theo SafeYou BaaS sau
 <p align="center">
     <img src="../../../assets/images/auth-url.png" alt="Auth URL" width="100%">
 </p>
+
+
+### Tài khoản mặc định
+
+- User:
+    - Email: `user@gmail.com`
+    - Password: `123465`
+- Admin:
+    - Email: `admin@gmail.com`
+    - Password: `123465`
